@@ -1,4 +1,4 @@
-# Ryan Timbrook (Graduate Student - Course Work Repository)
+## Ryan Timbrook (Graduate Student - Course Work Repository)
 
 ## Syracuse University, Masters of Applied Data Science
 
