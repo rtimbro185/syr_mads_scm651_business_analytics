@@ -5,7 +5,8 @@
 ### SCM 651 Business Analytics - Summar 2019
 ### SYLLABUS
 
-                                  **[SYRACUSE UNIVERSITY WHITMAN SCHOOL OF MANAGEMENT](https://whitman.syr.edu/)**
+                                  **SYRACUSE UNIVERSITY WHITMAN SCHOOL OF MANAGEMENT**
+                                               https://whitman.syr.edu/
                                            **SCM 651 – Business Analytics**        
 
 Course Overview and Learning Objectives <br>
