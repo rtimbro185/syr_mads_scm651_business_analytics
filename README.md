@@ -1,9 +1,12 @@
 # syr_mads_scm651_business_analytics
-Syracuse University, Masters of Applied Data Science -SCM 651 Business Analytics
+## Syracuse University, Masters of Applied Data Science
 
-SYRACUSE UNIVERSITY WHITMAN SCHOOL OF MANAGEMENT 
+### SCM 651 Business Analytics - Summar 2019
 
-SCM 651 – Business Analytics        
+## SYLLABUS
+
+                                  **SYRACUSE UNIVERSITY WHITMAN SCHOOL OF MANAGEMENT**<br>
+                                           **SCM 651 – Business Analytics**<br>        
 
 Course Overview and Learning Objectives <br>
  
