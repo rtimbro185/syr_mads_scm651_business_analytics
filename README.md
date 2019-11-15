@@ -1,6 +1,6 @@
 ## Ryan Timbrook (Graduate Student - Course Work Repository)
 
-## Syracuse University, Masters of Applied Data Science
+## [Syracuse University, Masters of Applied Data Science](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
 
 ### SCM 651 Business Analytics - Summar 2019
 ### SYLLABUS
