@@ -1,12 +1,12 @@
-# syr_mads_scm651_business_analytics
+# Ryan Timbrook (Graduate Student - Course Work Repository)
+
 ## Syracuse University, Masters of Applied Data Science
 
 ### SCM 651 Business Analytics - Summar 2019
+### SYLLABUS
 
-## SYLLABUS
-
-                                  **SYRACUSE UNIVERSITY WHITMAN SCHOOL OF MANAGEMENT**<br>
-                                           **SCM 651 – Business Analytics**<br>        
+                                  **SYRACUSE UNIVERSITY WHITMAN SCHOOL OF MANAGEMENT**
+                                           **SCM 651 – Business Analytics**        
 
 Course Overview and Learning Objectives <br>
  
